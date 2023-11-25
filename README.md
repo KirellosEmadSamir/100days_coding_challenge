@@ -1,6 +1,6 @@
 # 100-days-of-code
 
-100 days of Coding Challenge
+100 days Coding Challenge
 
 > Start date : November 20, 2023
 
